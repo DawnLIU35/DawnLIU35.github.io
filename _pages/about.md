@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-    I am a second year ECE Master student at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://scholar.google.com/citations?user=91noKlYAAAAJ&hl=zh-TW). I am now looking for Ph.D position in machine learning and its applications.
+I am a second year ECE Master student at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://scholar.google.com/citations?user=91noKlYAAAAJ&hl=zh-TW). I am now looking for Ph.D position in machine learning and its applications.
 
 
 Research Interests
@@ -17,6 +17,7 @@ Research Interests
 * Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
 
 * Application of Machine Learning (cyber-physical systems, quantum systems, etc.)
+
 
 Recent Research
 ======
@@ -34,10 +35,10 @@ Publications
 ======
 
 1. [**Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**](https://openreview.net/forum?id=L8iZdgeKmI6)  
-* **Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
-* Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022
++ **Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
++ Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022
 
 2. [**Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)  
-* Zewang Zhang, Shuo Yang, Yihang Wu, **Chenxi Liu**, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang
-* Chinese Physics Letters, Dec. 2019
++ Zewang Zhang, Shuo Yang, Yihang Wu, **Chenxi Liu**, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang
++ Chinese Physics Letters, Dec. 2019
 
