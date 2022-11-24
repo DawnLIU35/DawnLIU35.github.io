@@ -10,7 +10,15 @@ redirect_from:
 
 I am a second year ECE Master student at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://scholar.google.com/citations?user=91noKlYAAAAJ&hl=zh-TW). I am now looking for Ph.D position in machine learning and its applications.
 
-Recent Projects
+
+Research Interests
+======
+
+1. Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
+
+2. Application of Machine Learning (cyber-physical systems, quantum systems, etc.)
+
+Recent Research
 ======
 
 To Do: Unlearnable Examples for Generative Model. 
@@ -20,6 +28,12 @@ To Do: Unlearnable Examples for Generative Model.
 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at ICLR 2023.
 
 01/2022~03/2022: Fairness in Continual Learning.
+
+
+Publications
+======
+
+
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
