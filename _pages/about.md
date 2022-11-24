@@ -36,7 +36,7 @@ Publications
 
 [**Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**](https://openreview.net/forum?id=L8iZdgeKmI6)  
 **Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
-Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022
+Under review at 2023 International Conference on Learning Representations (ICLR), Sep.2022
 
 [**Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)  
 Zewang Zhang, Shuo Yang, Yihang Wu, **Chenxi Liu**, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang  
