@@ -22,13 +22,13 @@ Research Interests
 Recent Research
 ======
 
-To Do: Unlearnable Examples for Generative Model. 
+&bullet; To Do: Unlearnable Examples for Generative Model. 
 
-08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
+&bullet; 08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
 
-04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
+&bullet; 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
 
-01/2022~03/2022: Fairness in Continual Learning.
+&bullet; 01/2022~03/2022: Fairness in Continual Learning.
 
 
 Publications
