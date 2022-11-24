@@ -30,10 +30,6 @@ Recent Research
 
 ● 01/2022~03/2022: Fairness in Continual Learning.
 
-<ul>
-    <li><p>Ordered list element one</p ></li>
-    <li><p>Ordered list element two</p ></li>
-</ul>
 
 Publications
 ======
