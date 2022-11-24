@@ -33,6 +33,9 @@ To Do: Unlearnable Examples for Generative Model.
 Publications
 ======
 
+1. Chenxi Liu, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu. **Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**. Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022. [Paper](https://openreview.net/forum?id=L8iZdgeKmI6)
+
+2. Zewang Zhang, Shuo Yang, Yihang Wu, Chenxi Liu, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang. Predicting Quantum Many-Body Dynamics with Transferable Neural Networks. Chinese Physics Letters, Dec. 2019. [Paper](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)
 
 
 
