@@ -16,7 +16,7 @@ Research Interests
 
 ● Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
 
-● Applications of Machine Learning (cyber-physical systems, quantum systems, etc.) 
+● Applications of Machine Learning (Computer Vision, Natural Language Processing, Speech Processing, cyber-physical systems, quantum systems, etc.) 
 
 
 Recent Research
