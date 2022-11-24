@@ -14,9 +14,9 @@ I am a second year ECE Master student at [Northwestern University](https://www.m
 Research Interests
 ======
 
-● Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
+● Machine Learning (Domain Generalization, Domain Adaptation, Self-Supervised Learning, Continual Learning, Federated Learning, Machine Learning Security, etc.)
 
-● Applications of Machine Learning (Computer Vision, Natural Language Processing, Speech Processing, cyber-physical systems, quantum systems, etc.) 
+● Applications of Machine Learning (Computer Vision, Natural Language Processing, Speech Processing, Cyber-Physical Systems, Quantum Systems, etc.) 
 
 
 Recent Research
