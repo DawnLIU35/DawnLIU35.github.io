@@ -14,21 +14,21 @@ I am a second year ECE Master student at [Northwestern University](https://www.m
 Research Interests
 ======
 
-  * Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
+* Machine learning (domain generalization, domain adaptation, self-supervised learning, continual learning, federated learning, machine learning security, etc.)
 
-&bullet; Application of Machine Learning (cyber-physical systems, quantum systems, etc.)
+* Application of Machine Learning (cyber-physical systems, quantum systems, etc.)
 
 
 Recent Research
 ======
 
-&bullet; To Do: Unlearnable Examples for Generative Model. 
+* To Do: Unlearnable Examples for Generative Model. 
 
-&bullet; 08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
+* 08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
 
-&bullet; 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
+* 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
 
-&bullet; 01/2022~03/2022: Fairness in Continual Learning.
+* 01/2022~03/2022: Fairness in Continual Learning.
 
 
 Publications
