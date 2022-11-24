@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year ECE Master student at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://scholar.google.com/citations?user=91noKlYAAAAJ&hl=zh-TW). I am now looking for Ph.D position in machine learning and its applications.
+I am a second year ECE Master student at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://spe.sysu.edu.cn/node/328). I am now looking for Ph.D position in machine learning and its applications.
 
 
 Research Interests
