@@ -25,7 +25,7 @@ To Do: Unlearnable Examples for Generative Model.
 
 08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
 
-04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at ICLR 2023.
+04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
 
 01/2022~03/2022: Fairness in Continual Learning.
 
@@ -33,7 +33,9 @@ To Do: Unlearnable Examples for Generative Model.
 Publications
 ======
 
-1. Chenxi Liu, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu. **Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**. Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022. [Paper](https://openreview.net/forum?id=L8iZdgeKmI6)
+1. [**Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**](https://openreview.net/forum?id=L8iZdgeKmI6)
+**Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu
+Submitted to 2023 International Conference on Learning Representations (ICLR), Sep.2022. 
 
-2. Zewang Zhang, Shuo Yang, Yihang Wu, Chenxi Liu, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang. Predicting Quantum Many-Body Dynamics with Transferable Neural Networks. Chinese Physics Letters, Dec. 2019. [Paper](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)
+2. Zewang Zhang, Shuo Yang, Yihang Wu, Chenxi Liu, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang. **Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**. Chinese Physics Letters, Dec. 2019. [Paper](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)
 
