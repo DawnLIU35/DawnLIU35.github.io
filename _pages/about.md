@@ -24,7 +24,7 @@ Recent Research
 
 ● To Do: Unlearnable Examples for Generative Model. 
 
-● 08/2022~present: Data Imbalance in Self-Supervised Federated Learning.
+● 08/2022~present: Data Imbalance in Self-Supervised Federated Learning. Targeting **ICML 2023** as the first author.
 
 ● 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is under review at **ICLR 2023**.
 
