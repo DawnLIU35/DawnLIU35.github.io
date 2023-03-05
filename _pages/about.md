@@ -22,7 +22,9 @@ Research Interests
 Recent Research
 ======
 
-● 08/2022~present: Data Imbalance in Self-Supervised Federated Learning. 
+● 01/2023~present: Federated Novel Class Discovery.
+
+● 08/2022~12/2022: Data Imbalance in Self-Supervised Federated Learning. 
 
 ● 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is accepted by **ICLR 2023**.
 
@@ -32,7 +34,7 @@ Recent Research
 Publications
 ======
 
-[**Twofer: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation**](https://openreview.net/forum?id=L8iZdgeKmI6)  
+[**Deja Vu: Continual Model Generalization for Unseen Domains**](https://openreview.net/forum?id=L8iZdgeKmI6)  
 **Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
 International Conference on Learning Representations (ICLR), Jan.2023
 
