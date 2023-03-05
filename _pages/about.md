@@ -35,7 +35,7 @@ Publications
 ======
 
 [**Deja Vu: Continual Model Generalization for Unseen Domains**](https://openreview.net/forum?id=L8iZdgeKmI6)  
-**Chenxi Liu**, Lixu Wang, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
+**Chenxi Liu**\*, Lixu Wang\*, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
 International Conference on Learning Representations (ICLR), Jan.2023
 
 [**Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)  
