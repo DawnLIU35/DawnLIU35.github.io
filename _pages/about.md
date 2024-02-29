@@ -36,7 +36,7 @@ Research Interests
 Publications
 ======
 
-[**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)
+[**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)    
 Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
 Arxiv, Dec.2023
 
