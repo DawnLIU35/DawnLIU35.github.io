@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chenxi Liu"
   avatar           : "profile.png"
-  bio              : "Incoming CS PhD student at University of Maryland, College Park"
-  location         : "Evanston, IL, USA"
+  bio              : "CS PhD student at University of Maryland, College Park"
+  location         : "College Park, MD, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "chenxiliu2020@u.northwestern.edu"
+  email            : "cxliu539@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
