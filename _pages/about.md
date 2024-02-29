@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming CS PhD student at [University of Maryland, College Park](https://www.cs.umd.edu/). I will join Prof. Heng Huang's lab.
+I am an CS PhD student at [University of Maryland, College Park](https://www.cs.umd.edu/), advised by Prof. [Heng Huang](https://www.cs.umd.edu/people/heng).
 I received my Master degree in EE at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://spe.sysu.edu.cn/node/328). 
 
 Research Interests
 ======
 
-● Machine Learning *(Domain Generalization, Domain Adaptation, Self-Supervised Learning, Continual Learning, Federated Learning, Machine Learning Security, etc.)*
+● Vision Language Model, Video Generation
 
-● Applications of Machine Learning *(Computer Vision, Natural Language Processing, Speech Processing, Cyber-Physical Systems, Quantum Systems, etc.)* 
+● Continual Learning, Federated Learning, Domain Adaptation
 
 
-Recent Research
+
+
+<!-- Recent Research
 ======
 
 ● 01/2023~present: Federated Novel Class Discovery.
@@ -28,13 +30,17 @@ Recent Research
 
 ● 04/2022~09/2022: Tackling Continual Domain Shift with Simultaneous Domain Generalization and Adaptation. A paper is accepted by **ICLR 2023**.
 
-● 01/2022~03/2022: Fairness in Continual Learning.
+● 01/2022~03/2022: Fairness in Continual Learning. -->
 
 
 Publications
 ======
 
-[**Deja Vu: Continual Model Generalization for Unseen Domains**](https://openreview.net/forum?id=L8iZdgeKmI6)  
+[**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)
+Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
+Arxiv, Dec.2023
+
+[**Deja Vu: Continual Model Generalization for Unseen Domains**](https://arxiv.org/pdf/2301.10418.pdf)  
 **Chenxi Liu**\*, Lixu Wang\*, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
 International Conference on Learning Representations (ICLR), Jan.2023
 
