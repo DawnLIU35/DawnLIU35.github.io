@@ -37,7 +37,7 @@ Publications
 ======
 
 [**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)    
-Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu
+Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu    
 Arxiv, Dec.2023
 
 [**Deja Vu: Continual Model Generalization for Unseen Domains**](https://arxiv.org/pdf/2301.10418.pdf)  
