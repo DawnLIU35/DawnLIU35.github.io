@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Chenxi Liu"
-excerpt: "About me"
+excerpt: "Chenxi Liu"
 author_profile: true
 redirect_from: 
   - /about/
