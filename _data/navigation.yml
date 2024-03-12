@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://dawnliu35.github.io/files/ChenxiLiu-CV.pdf
+  # - title: "CV"
+  #   url: https://dawnliu35.github.io/files/ChenxiLiu-CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
