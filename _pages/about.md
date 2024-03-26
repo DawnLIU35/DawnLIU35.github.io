@@ -36,6 +36,14 @@ Research Interests
 Publications
 ======
 
+[**Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt**](https://arxiv.org/pdf/2403.09857.pdf)    
+**Chenxi Liu**, Zhenyi Wang, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Heng Huang
+Arxiv, March.2024
+
+[**Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection**](https://arxiv.org/pdf/2402.12501.pdf)    
+Ruibo Chen, Yihan Wu, Lichang Chen, Guodong Liu, Qi He, Tianyi Xiong, **Chenxi Liu**, Junfeng Guo, Heng Huang
+Arxiv, Feb.2024
+
 [**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)    
 Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu    
 Arxiv, Dec.2023
