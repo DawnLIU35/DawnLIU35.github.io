@@ -36,7 +36,8 @@ Research Interests
 Publications
 ======
 [**OPTune: Efficient Online Preference Tuning**](https://arxiv.org/pdf/2406.07657)    
-Lichang Chen, **Chenxi Liu**\*, Jiuhai Chen\*, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang, Arxiv 2024
+Lichang Chen, **Chenxi Liu**\*, Jiuhai Chen\*, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang   
+Arxiv 2024
 
 [**Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt**](https://arxiv.org/pdf/2403.09857.pdf)    
 **Chenxi Liu**, Zhenyi Wang, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Heng Huang    
