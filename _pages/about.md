@@ -14,7 +14,7 @@ I received my Master degree in EE at [Northwestern University](https://www.mccor
 Research Interests
 ======
 
-● Vision Language Model, Video Generation
+● Vision Language Model, Large Language Model
 
 ● Continual Learning, Federated Learning, Domain Adaptation
 
@@ -35,14 +35,16 @@ Research Interests
 
 Publications
 ======
+[**OPTune: Efficient Online Preference Tuning**](https://arxiv.org/pdf/2406.07657)
+Lichang Chen, Jiuhai Chen, **Chenxi Liu**, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang
 
 [**Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt**](https://arxiv.org/pdf/2403.09857.pdf)    
 **Chenxi Liu**, Zhenyi Wang, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Heng Huang    
-Arxiv, March.2024
+The 18th European Conference on Computer Vision, March.2024
 
 [**Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection**](https://arxiv.org/pdf/2402.12501.pdf)    
 Ruibo Chen, Yihan Wu, Lichang Chen, Guodong Liu, Qi He, Tianyi Xiong, **Chenxi Liu**, Junfeng Guo, Heng Huang   
-Arxiv, Feb.2024
+Findings of the Association for Computational Linguistics, Feb.2024
 
 [**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)    
 Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu    
