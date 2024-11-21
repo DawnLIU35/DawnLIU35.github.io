@@ -55,7 +55,7 @@ Arxiv, Dec.2023
 **Chenxi Liu**\*, Lixu Wang\*, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
 International Conference on Learning Representations (ICLR), Jan.2023
 
-[**Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)  
+<!-- [**Predicting Quantum Many-Body Dynamics with Transferable Neural Networks**](http://cpl.iphy.ac.cn/10.1088/0256-307X/37/1/018401#1)  
 Zewang Zhang, Shuo Yang, Yihang Wu, **Chenxi Liu**, Yimin Han, Ching Hua Lee, Zheng Sun, Guangjie Li and Xiao Zhang  
-Chinese Physics Letters, Dec. 2019
+Chinese Physics Letters, Dec. 2019 -->
 
