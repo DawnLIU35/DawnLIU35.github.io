@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an CS PhD student at [University of Maryland, College Park](https://www.cs.umd.edu/), advised by Prof. [Heng Huang](https://www.cs.umd.edu/people/heng).
+I am a CS PhD student at [University of Maryland, College Park](https://www.cs.umd.edu/), advised by Prof. [Heng Huang](https://www.cs.umd.edu/people/heng).
 I received my Master degree in EE at [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), supervised by Prof.[Qi Zhu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html) and Prof.[Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html). Before that, I obtained my B.S from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in July 2020 under the supervision of Prof.[Xiao Zhang](https://spe.sysu.edu.cn/node/328). 
 
 Research Interests
 ======
 
-● Vision Language Model, Large Language Model
+● Language Multi-modal Model, Large Language Model
 
 ● Continual Learning, Federated Learning, Domain Adaptation
 
@@ -33,7 +33,7 @@ Research Interests
 ● 01/2022~03/2022: Fairness in Continual Learning. -->
 
 
-Publications
+Selected Publications
 ======
 [**OPTune: Efficient Online Preference Tuning**](https://arxiv.org/pdf/2406.07657)    
 Lichang Chen, Jiuhai Chen\*, **Chenxi Liu**\*, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang   
