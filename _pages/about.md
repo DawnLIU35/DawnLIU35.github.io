@@ -14,7 +14,7 @@ I received my Master degree in EE at [Northwestern University](https://www.mccor
 Research Interests
 ======
 
-● Language Multi-modal Model, Large Language Model
+● Language Multi-modal Model, Large Language Model, Reinforcement Learning
 
 ● Continual Learning, Federated Learning, Domain Adaptation
 
@@ -35,8 +35,12 @@ Research Interests
 
 Selected Publications
 ======
+[**Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining**](https://arxiv.org/pdf/2506.08022)    
+Chenxi Liu, Tianyi Xiong, Yanshuo Chen, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang    
+Arxiv 2025
+
 [**OPTune: Efficient Online Preference Tuning**](https://arxiv.org/pdf/2406.07657)    
-Lichang Chen, Jiuhai Chen\*, **Chenxi Liu**\*, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang   
+Lichang Chen, Jiuhai Chen, **Chenxi Liu**, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang   
 Arxiv 2024
 
 [**Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt**](https://arxiv.org/pdf/2403.09857.pdf)    
@@ -49,7 +53,7 @@ Findings of the Association for Computational Linguistics, Feb.2024
 
 [**Federated Continual Novel Class Learning**](https://arxiv.org/pdf/2312.13500.pdf)    
 Lixu Wang\*, **Chenxi Liu**\*, Junfeng Guo, Jiahua Dong, Xiao Wang, Heng Huang, Qi Zhu    
-Arxiv, Dec.2023
+ICCV2025, Dec.2023
 
 [**Deja Vu: Continual Model Generalization for Unseen Domains**](https://arxiv.org/pdf/2301.10418.pdf)  
 **Chenxi Liu**\*, Lixu Wang\*, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu  
