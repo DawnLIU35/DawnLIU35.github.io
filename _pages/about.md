@@ -36,7 +36,7 @@ Research Interests
 Selected Publications
 ======
 [**Modality-Balancing Preference Optimization of Large Multimodal Models by Adversarial Negative Mining**](https://arxiv.org/pdf/2506.08022)    
-Chenxi Liu, Tianyi Xiong, Yanshuo Chen, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang    
+**Chenxi Liu**, Tianyi Xiong, Yanshuo Chen, Ruibo Chen, Yihan Wu, Junfeng Guo, Tianyi Zhou, Heng Huang    
 Arxiv 2025
 
 [**OPTune: Efficient Online Preference Tuning**](https://arxiv.org/pdf/2406.07657)    
