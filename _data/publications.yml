@@ -6,15 +6,15 @@
 
 - slug: evan
   title: "Grounding Multimodal Reasoning with Evidence-Ablated Negatives"
-  url: "https://github.com/DawnLIU35/EVAN"
+  url: "https://arxiv.org/abs/2610.39237"
   authors: "Chenxi Liu, Tianyi Xiong, Yanshuo Chen, Heng Huang"
   venue: neurips
   badge: "NeurIPS 2026"
   links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2610.39237"
     - name: Code
       url: "https://github.com/DawnLIU35/EVAN"
-    - name: Models
-      url: "https://huggingface.co/DawnLiu"
 
 - slug: mpq
   title: "MPQ: A Message-Passing View of Post-Training Quantization"

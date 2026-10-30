@@ -3,7 +3,7 @@
 # `text` may contain HTML (links, <b>, ...).
 
 - date: "Sep 2026"
-  text: 'Three papers accepted to <b>NeurIPS 2026</b>: <a href="https://github.com/DawnLIU35/EVAN">EVAN</a> (first author), <a href="https://arxiv.org/abs/2610.32127">MPQ</a>, and <a href="https://arxiv.org/abs/2605.08083">AutoTTS</a>.'
+  text: 'Three papers accepted to <b>NeurIPS 2026</b>: <a href="https://arxiv.org/abs/2610.39237">EVAN</a> (first author), <a href="https://arxiv.org/abs/2610.32127">MPQ</a>, and <a href="https://arxiv.org/abs/2605.08083">AutoTTS</a>.'
 
 - date: "May 2026"
   text: 'Joined <b>Meta FAIR</b> as a Research Intern, working on agentic systems for real-time streaming video generation.'
