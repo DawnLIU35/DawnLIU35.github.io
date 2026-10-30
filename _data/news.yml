@@ -2,12 +2,6 @@
 # The first 6 items are always visible; the rest go under "Earlier news".
 # `text` may contain HTML (links, <b>, ...).
 
-- date: "Oct 2026"
-  text: 'Released the code and the EVAN-3B / 7B / 8B checkpoints of <a href="https://github.com/DawnLIU35/EVAN">EVAN</a>.'
-
-- date: "Oct 2026"
-  text: 'New preprint: <a href="https://arxiv.org/abs/2610.28966">ReMAS</a>, black-box red-teaming of LLM multi-agent systems via reinforcement learning.'
-
 - date: "Sep 2026"
   text: 'Three papers accepted to <b>NeurIPS 2026</b>: <a href="https://github.com/DawnLIU35/EVAN">EVAN</a> (first author), <a href="https://arxiv.org/abs/2610.32127">MPQ</a>, and <a href="https://arxiv.org/abs/2605.08083">AutoTTS</a>.'
 

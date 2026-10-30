@@ -12,7 +12,7 @@ redirect_from:
 <!-- News and publications are rendered from _data/news.yml and _data/publications.yml. -->
 
 <div class="home-intro">
-<p>I am a Ph.D. student in Computer Science at the <a href="https://www.cs.umd.edu/">University of Maryland, College Park</a>, advised by Prof. <a href="https://www.cs.umd.edu/people/heng">Heng Huang</a>. I am currently a Research Intern at <b>Meta FAIR</b>, building agentic systems for real-time streaming video generation. Previously, I interned at <b>ByteDance</b>, working on reinforcement learning for LLM reasoning and multi-agent security.</p>
+<p>I am a fourth-year Ph.D. student in Computer Science at the <a href="https://www.cs.umd.edu/">University of Maryland, College Park</a>, advised by Prof. <a href="https://www.cs.umd.edu/people/heng">Heng Huang</a>. I am currently a Research Intern at <b>Meta FAIR</b>, building agentic systems for real-time streaming video generation. Previously, I interned at <b>ByteDance</b>, working on reinforcement learning for LLM reasoning and multi-agent security.</p>
 <p>My research interests include:</p>
 <ul class="interest-chips">
 <li>LLM/VLM Reasoning</li>
