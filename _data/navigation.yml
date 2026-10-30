@@ -1,5 +1,17 @@
 # main links links
 main:
+  - title: "News"
+    url: /#news
+
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Education"
+    url: /#education
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -14,9 +26,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: https://dawnliu35.github.io/files/ChenxiLiu-CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/

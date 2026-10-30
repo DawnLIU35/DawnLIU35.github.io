@@ -1,0 +1,168 @@
+# Selected publications shown on the homepage, in display order.
+#   slug   : thumbnail is images/publications/<slug>.webp (a placeholder is shown if `thumb: false`)
+#   badge  : text on the thumbnail; `venue` picks its color (neurips, cvpr, iccv, eccv, iclr, acl, arxiv)
+#   authors: "Chenxi Liu" is highlighted automatically; mark equal contribution with *
+#   links  : name is one of Paper, Code, Project, Models (icons are picked from the name)
+
+- slug: evan
+  title: "Grounding Multimodal Reasoning with Evidence-Ablated Negatives"
+  url: "https://github.com/DawnLIU35/EVAN"
+  authors: "Chenxi Liu, Tianyi Xiong, Yanshuo Chen, Heng Huang"
+  venue: neurips
+  badge: "NeurIPS 2026"
+  venue_full: "Advances in Neural Information Processing Systems (NeurIPS), 2026"
+  tldr: "Masks the image evidence a question needs, lets the policy answer without it, and penalizes these plausible but ungrounded answers as hard negatives in RLVR."
+  links:
+    - name: Code
+      url: "https://github.com/DawnLIU35/EVAN"
+    - name: Models
+      url: "https://huggingface.co/DawnLiu"
+
+- slug: mpq
+  title: "MPQ: A Message-Passing View of Post-Training Quantization"
+  url: "https://arxiv.org/abs/2610.32127"
+  authors: "Yanshuo Chen, Chenxi Liu, Reza Shirkavand, Heng Huang"
+  venue: neurips
+  badge: "NeurIPS 2026"
+  venue_full: "Advances in Neural Information Processing Systems (NeurIPS), 2026"
+  tldr: "Casts post-training quantization as posterior inference over codebooks and keeps soft information across blocks via message passing, improving low-bit LLM quantization."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2610.32127"
+    - name: Code
+      url: "https://github.com/poseidonchan/MPQ"
+
+- slug: autotts
+  title: "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"
+  url: "https://arxiv.org/abs/2605.08083"
+  authors: "Tong Zheng, Haolin Liu, Chengsong Huang, Huiwen Bao, Sheng Zhang, Rui Liu, Runpeng Dai, Ruibo Chen, Chenxi Liu, Tianyi Xiong, Xidong Wu, Hongming Zhang, Heng Huang"
+  venue: neurips
+  badge: "NeurIPS 2026"
+  venue_full: "Advances in Neural Information Processing Systems (NeurIPS), 2026"
+  tldr: "Builds an environment where an LLM agent automatically discovers test-time scaling strategies that beat hand-crafted ones on the accuracy-cost trade-off."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2605.08083"
+    - name: Code
+      url: "https://github.com/zhengkid/AutoTTS"
+
+- slug: sdrl
+  title: "Learning from Self-Debate: Preparing Reasoning Models for Multi-Agent Debate"
+  url: "https://arxiv.org/abs/2601.22297"
+  authors: "Chenxi Liu, Yanshuo Chen, Ruibo Chen, Tianyi Xiong, Tong Zheng, Heng Huang"
+  venue: arxiv
+  badge: "arXiv 2026"
+  venue_full: "arXiv preprint, 2026"
+  tldr: "Self-Debate RL trains a single model to solve problems on its own and to synthesize diverse reasoning trajectories, so it also benefits from multi-agent debate."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2601.22297"
+    - name: Code
+      url: "https://github.com/DawnLIU35/SDRL"
+
+- slug: redteam
+  title: "Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning"
+  url: "https://arxiv.org/abs/2610.28966"
+  authors: "Yuqi Jia, Hangsheng Zhang, Chenxi Liu, Junjie Liang, Xun Chen"
+  venue: arxiv
+  badge: "arXiv 2026"
+  venue_full: "arXiv preprint, 2026"
+  tldr: "ReMAS, the first RL-based red-teaming framework tailored to LLM multi-agent systems, fine-tunes attacker LLMs to extract system prompts."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2610.28966"
+
+- slug: multicrit
+  title: "Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following"
+  url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Multi-Crit_Benchmarking_Multimodal_Judges_on_Pluralistic_Criteria-Following_CVPR_2026_paper.pdf"
+  authors: "Tianyi Xiong*, Yi Ge*, Ming Li, Zuolong Zhang, Pranav Kulkarni, Kaishen Wang, Qi He, Zeying Zhu, Chenxi Liu, Ruibo Chen, Tong Zheng, Yanshuo Chen, Xiyao Wang, Renrui Zhang, Wenhu Chen, Heng Huang"
+  venue: cvpr
+  badge: "CVPR 2026"
+  highlight: "Highlight"
+  venue_full: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026"
+  tldr: "A benchmark testing whether multimodal judges can follow diverse, fine-grained evaluation criteria, including criteria whose preferences conflict."
+  links:
+    - name: Paper
+      url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Xiong_Multi-Crit_Benchmarking_Multimodal_Judges_on_Pluralistic_Criteria-Following_CVPR_2026_paper.pdf"
+    - name: Project
+      url: "https://multi-crit.github.io/"
+
+- slug: erpo
+  title: "Explore Data Left Behind in Reinforcement Learning for Reasoning Language Models"
+  url: "https://arxiv.org/abs/2511.04800"
+  authors: "Chenxi Liu, Junjie Liang, Yuqi Jia, Bochuan Cao, Yang Bai, Heng Huang, Xun Chen"
+  venue: arxiv
+  badge: "arXiv 2025"
+  venue_full: "arXiv preprint, 2025"
+  tldr: "As GRPO trains longer and larger, more prompts give zero reward variance and no signal; ERPO reactivates them by encouraging exploration with adaptive sampling temperature."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2511.04800"
+    - name: Code
+      url: "https://github.com/DawnLIU35/ERPO"
+
+- slug: fccd
+  title: "Federated Continuous Category Discovery and Learning"
+  url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Federated_Continuous_Category_Discovery_and_Learning_ICCV_2025_paper.pdf"
+  authors: "Lixu Wang*, Chenxi Liu*, Junfeng Guo, Qingqing Ye, Heng Huang, Haibo Hu, Wei Dong"
+  venue: iccv
+  badge: "ICCV 2025"
+  venue_full: "IEEE/CVF International Conference on Computer Vision (ICCV), 2025"
+  tldr: "Global Prototype Alignment lets federated clients continually discover and learn novel categories while preserving privacy and known-category accuracy."
+  links:
+    - name: Paper
+      url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Wang_Federated_Continuous_Category_Discovery_and_Learning_ICCV_2025_paper.pdf"
+
+- slug: optune
+  title: "OPTune: Efficient Online Preference Tuning"
+  url: "https://arxiv.org/abs/2406.07657"
+  authors: "Lichang Chen, Jiuhai Chen, Chenxi Liu, John Kirchenbauer, Davit Soselia, Chen Zhu, Tom Goldstein, Tianyi Zhou, Heng Huang"
+  venue: arxiv
+  badge: "arXiv 2024"
+  venue_full: "arXiv preprint, 2024"
+  tldr: "Makes online preference tuning cheaper by regenerating responses only for the prompts most likely to give informative training signal."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2406.07657"
+
+- slug: fscil
+  title: "Few-Shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt"
+  url: "https://arxiv.org/abs/2403.09857"
+  authors: "Chenxi Liu, Zhenyi Wang, Tianyi Xiong, Ruibo Chen, Yihan Wu, Junfeng Guo, Heng Huang"
+  venue: eccv
+  badge: "ECCV 2024"
+  venue_full: "European Conference on Computer Vision (ECCV), 2024"
+  tldr: "ASP learns new classes from a few samples with prompts instead of fine-tuning the backbone: task-invariant prompts share knowledge, self-adaptive prompts specialize."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2403.09857"
+    - name: Code
+      url: "https://github.com/DawnLIU35/FSCIL-ASP"
+
+- slug: vlmfilter
+  title: "Your Vision-Language Model Itself Is a Strong Filter: Towards High-Quality Instruction Tuning with Data Selection"
+  url: "https://arxiv.org/abs/2402.12501"
+  authors: "Ruibo Chen, Yihan Wu, Lichang Chen, Guodong Liu, Qi He, Tianyi Xiong, Chenxi Liu, Junfeng Guo, Heng Huang"
+  venue: acl
+  badge: "ACL 2024 Findings"
+  venue_full: "Findings of the Association for Computational Linguistics (ACL), 2024"
+  tldr: "Self-Filter uses the VLM itself as a data filter, selecting the most challenging instructions for high-quality visual instruction tuning."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2402.12501"
+    - name: Code
+      url: "https://github.com/RayRuiboChen/Self-Filter"
+
+- slug: dejavu
+  title: "Deja Vu: Continual Model Generalization for Unseen Domains"
+  url: "https://arxiv.org/abs/2301.10418"
+  authors: "Chenxi Liu*, Lixu Wang*, Lingjuan Lyu, Chen Sun, Xiao Wang, Qi Zhu"
+  venue: iclr
+  badge: "ICLR 2023"
+  venue_full: "International Conference on Learning Representations (ICLR), 2023"
+  tldr: "RaTP keeps a model strong on new domains even before and during adaptation (the unfamiliar period) when the target distribution keeps shifting."
+  links:
+    - name: Paper
+      url: "https://arxiv.org/abs/2301.10418"
+    - name: Code
+      url: "https://github.com/DawnLIU35/DejaVu-RaTP"
