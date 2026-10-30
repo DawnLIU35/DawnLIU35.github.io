@@ -3,57 +3,43 @@
 # `text` may contain HTML (links, <b>, ...).
 
 - date: "Oct 2026"
-  emoji: "🚀"
   text: 'Released the code and the EVAN-3B / 7B / 8B checkpoints of <a href="https://github.com/DawnLIU35/EVAN">EVAN</a>.'
 
 - date: "Oct 2026"
-  emoji: "📄"
   text: 'New preprint: <a href="https://arxiv.org/abs/2610.28966">ReMAS</a>, black-box red-teaming of LLM multi-agent systems via reinforcement learning.'
 
 - date: "Sep 2026"
-  emoji: "🎉"
   text: 'Three papers accepted to <b>NeurIPS 2026</b>: <a href="https://github.com/DawnLIU35/EVAN">EVAN</a> (first author), <a href="https://arxiv.org/abs/2610.32127">MPQ</a>, and <a href="https://arxiv.org/abs/2605.08083">AutoTTS</a>.'
 
 - date: "May 2026"
-  emoji: "💼"
   text: 'Joined <b>Meta FAIR</b> as a Research Intern, working on agentic systems for real-time streaming video generation.'
 
 - date: "Apr 2026"
-  emoji: "✨"
   text: '<a href="https://multi-crit.github.io/">Multi-Crit</a> is selected as a <b>Highlight</b> paper at CVPR 2026.'
 
 - date: "Feb 2026"
-  emoji: "🎉"
   text: '<a href="https://multi-crit.github.io/">Multi-Crit</a> is accepted to <b>CVPR 2026</b>.'
 
 - date: "Jan 2026"
-  emoji: "📄"
   text: 'New preprint: <a href="https://arxiv.org/abs/2601.22297">Learning from Self-Debate</a>, preparing reasoning models for multi-agent debate.'
 
 - date: "Nov 2025"
-  emoji: "📄"
   text: 'New preprint: <a href="https://arxiv.org/abs/2511.04800">ERPO</a>, exploring the residual prompts left behind by GRPO.'
 
 - date: "Jun 2025"
-  emoji: "💼"
   text: 'Joined <b>ByteDance</b> as a Research Intern, working on RL for LLM reasoning and multi-agent security.'
 
 - date: "Jun 2025"
-  emoji: "🎉"
   text: 'Federated Continuous Category Discovery and Learning is accepted to <b>ICCV 2025</b>.'
 
 - date: "Jul 2024"
-  emoji: "🎉"
   text: '<a href="https://arxiv.org/abs/2403.09857">ASP</a> for few-shot class-incremental learning is accepted to <b>ECCV 2024</b>.'
 
 - date: "May 2024"
-  emoji: "🎉"
   text: '<a href="https://arxiv.org/abs/2402.12501">Self-Filter</a> is accepted to <b>Findings of ACL 2024</b>.'
 
 - date: "Aug 2023"
-  emoji: "🎓"
   text: 'Started my Ph.D. in Computer Science at the University of Maryland, College Park.'
 
 - date: "Jan 2023"
-  emoji: "🎉"
   text: '<a href="https://arxiv.org/abs/2301.10418">Deja Vu</a> is accepted to <b>ICLR 2023</b>.'

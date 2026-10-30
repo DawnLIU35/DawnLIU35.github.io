@@ -24,10 +24,10 @@ redirect_from:
 </div>
 
 <div class="home-section" id="news">
-<h2>🔥 News</h2>
+<h2>News</h2>
 <ul class="news-list">
 {%- for item in site.data.news limit: 6 %}
-<li><span class="news-date">{{ item.date }}</span><span class="news-emoji">{{ item.emoji }}</span><span>{{ item.text }}</span></li>
+<li><span class="news-date">{{ item.date }}</span><span>{{ item.text }}</span></li>
 {%- endfor %}
 </ul>
 {%- if site.data.news.size > 6 %}
@@ -35,7 +35,7 @@ redirect_from:
 <summary>Earlier news</summary>
 <ul class="news-list">
 {%- for item in site.data.news offset: 6 %}
-<li><span class="news-date">{{ item.date }}</span><span class="news-emoji">{{ item.emoji }}</span><span>{{ item.text }}</span></li>
+<li><span class="news-date">{{ item.date }}</span><span>{{ item.text }}</span></li>
 {%- endfor %}
 </ul>
 </details>
@@ -43,88 +43,66 @@ redirect_from:
 </div>
 
 <div class="home-section" id="publications">
-<h2>📝 Selected Publications</h2>
+<h2>Selected Publications</h2>
 <div class="pub-list">
 {%- for pub in site.data.publications %}
-{%- capture badges %}<span class="pub-badges"><span class="pub-badge pub-badge--{{ pub.venue }}">{{ pub.badge }}</span>{% if pub.highlight %}<span class="pub-badge pub-badge--highlight">{{ pub.highlight }}</span>{% endif %}</span>{% endcapture %}
 {%- assign thumb = base_path | append: "/images/publications/" | append: pub.slug | append: ".webp" %}
-<div class="pub-card">
-{%- if pub.thumb == false %}
-<div class="pub-thumb pub-thumb--empty">{{ badges }}</div>
-{%- else %}
-<a class="pub-thumb image-popup" href="{{ thumb }}" title="{{ pub.title | escape }}"><img src="{{ thumb }}" alt="Figure from {{ pub.title | escape }}" loading="lazy">{{ badges }}</a>
-{%- endif %}
+<div class="pub">
+{%- unless pub.thumb == false %}
+<a class="pub-thumb image-popup" href="{{ thumb }}" title="{{ pub.title | escape }}"><img src="{{ thumb }}" alt="" loading="lazy"></a>
+{%- endunless %}
 <div class="pub-body">
-<p class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></p>
-<p class="pub-authors">{{ pub.authors | replace: "Chenxi Liu", '<span class="me">Chenxi Liu</span>' }}</p>
-<p class="pub-venue">{{ pub.venue_full }}{% if pub.highlight %} <span class="pub-highlight">{{ pub.highlight }}</span>{% endif %}</p>
-<p class="pub-tldr">{{ pub.tldr }}</p>
-<div class="pub-links">
-{%- for link in pub.links %}
-{%- case link.name %}
-{%- when "Paper" %}{% assign icon = '<i class="fas fa-file-alt" aria-hidden="true"></i>' %}
-{%- when "Code" %}{% assign icon = '<i class="fab fa-github" aria-hidden="true"></i>' %}
-{%- when "Project" %}{% assign icon = '<i class="fas fa-globe" aria-hidden="true"></i>' %}
-{%- when "Models" %}{% assign icon = '<span aria-hidden="true">🤗</span>' %}
-{%- else %}{% assign icon = '<i class="fas fa-link" aria-hidden="true"></i>' %}
-{%- endcase %}
-<a href="{{ link.url }}">{{ icon }}{{ link.name }}</a>
-{%- endfor %}
-</div>
+<div class="pub-title"><a href="{{ pub.url }}">{{ pub.title }}</a></div>
+<div class="pub-authors">{{ pub.authors | replace: "Chenxi Liu", '<span class="me">Chenxi Liu</span>' }}</div>
+<div class="pub-meta"><span class="venue venue--{{ pub.venue }}">{{ pub.badge }}</span>{% if pub.highlight %}<span class="venue venue--highlight">{{ pub.highlight }}</span>{% endif %}{% for link in pub.links %}<a class="pub-link" href="{{ link.url }}">{{ link.name }}</a>{% endfor %}</div>
 </div>
 </div>
 {%- endfor %}
 </div>
-<p class="pub-note">* Equal contribution. Full publication list on <a href="https://scholar.google.com/citations?user=GPzr7O4AAAAJ&amp;hl=en">Google Scholar</a>.</p>
+<p class="pub-note">* Equal contribution. Full list on <a href="https://scholar.google.com/citations?user=GPzr7O4AAAAJ&amp;hl=en">Google Scholar</a>.</p>
 </div>
 
 <div class="home-section" id="experience">
-<h2>💼 Experience</h2>
-<ul class="timeline">
-<li class="timeline-item">
-<div class="timeline-logo"><img src="{{ base_path }}/images/logos/meta.svg" alt="Meta"></div>
-<div class="timeline-body">
-<div class="timeline-head"><span class="timeline-org">Meta FAIR</span><span class="timeline-date">May 2026 – Present</span></div>
-<div class="timeline-role">Research Intern</div>
-<p class="timeline-desc">Developing an agentic system for streaming video generation, and distilling its capabilities into the video model with on-policy self-distillation, so the model alone can generate streaming video in real time.</p>
+<h2>Experience</h2>
+<ul class="entry-list">
+<li class="entry">
+<div class="entry-logo"><img src="{{ base_path }}/images/logos/meta.svg" alt="Meta"></div>
+<div class="entry-body">
+<div class="entry-title">Meta FAIR</div>
+<div class="entry-sub">Research Intern · May 2026 – Present</div>
+<div class="entry-desc">Agentic systems for streaming video generation, distilled into the video model with on-policy self-distillation for real-time generation.</div>
 </div>
 </li>
-<li class="timeline-item">
-<div class="timeline-logo"><img src="{{ base_path }}/images/logos/bytedance.svg" alt="ByteDance"></div>
-<div class="timeline-body">
-<div class="timeline-head"><span class="timeline-org">ByteDance</span><span class="timeline-date">Jun 2025 – Sep 2025</span></div>
-<div class="timeline-role">Research Intern</div>
-<p class="timeline-desc">Reinforcement learning for LLM reasoning (<a href="https://arxiv.org/abs/2511.04800">ERPO</a>) and multi-agent security (<a href="https://arxiv.org/abs/2610.28966">ReMAS</a>).</p>
+<li class="entry">
+<div class="entry-logo"><img src="{{ base_path }}/images/logos/bytedance.svg" alt="ByteDance"></div>
+<div class="entry-body">
+<div class="entry-title">ByteDance</div>
+<div class="entry-sub">Research Intern · Jun 2025 – Sep 2025</div>
+<div class="entry-desc">Reinforcement learning for LLM reasoning (<a href="https://arxiv.org/abs/2511.04800">ERPO</a>) and multi-agent security (<a href="https://arxiv.org/abs/2610.28966">ReMAS</a>).</div>
 </div>
 </li>
 </ul>
 </div>
 
 <div class="home-section" id="education">
-<h2>🎓 Education</h2>
-<ul class="timeline">
-<li class="timeline-item">
-<div class="timeline-logo timeline-logo--text timeline-logo--umd">UMD</div>
-<div class="timeline-body">
-<div class="timeline-head"><span class="timeline-org">University of Maryland, College Park</span><span class="timeline-date">Aug 2023 – Present</span></div>
-<div class="timeline-role">Ph.D. in Computer Science</div>
-<p class="timeline-desc">Advisor: Prof. <a href="https://www.cs.umd.edu/people/heng">Heng Huang</a></p>
+<h2>Education</h2>
+<ul class="entry-list">
+<li class="entry">
+<div class="entry-body">
+<div class="entry-title">Ph.D. in Computer Science, University of Maryland, College Park</div>
+<div class="entry-sub">Aug 2023 – Present · Advisor: Prof. <a href="https://www.cs.umd.edu/people/heng">Heng Huang</a></div>
 </div>
 </li>
-<li class="timeline-item">
-<div class="timeline-logo timeline-logo--text timeline-logo--nu">NU</div>
-<div class="timeline-body">
-<div class="timeline-head"><span class="timeline-org">Northwestern University</span><span class="timeline-date">Aug 2021 – Mar 2023</span></div>
-<div class="timeline-role">M.S. in Electrical Engineering</div>
-<p class="timeline-desc">Advisors: Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html">Qi Zhu</a> and Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html">Xiao Wang</a></p>
+<li class="entry">
+<div class="entry-body">
+<div class="entry-title">M.S. in Electrical Engineering, Northwestern University</div>
+<div class="entry-sub">Aug 2021 – Mar 2023 · Advisors: Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html">Qi Zhu</a> and Prof. <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html">Xiao Wang</a></div>
 </div>
 </li>
-<li class="timeline-item">
-<div class="timeline-logo timeline-logo--text timeline-logo--sysu">SYSU</div>
-<div class="timeline-body">
-<div class="timeline-head"><span class="timeline-org">Sun Yat-sen University</span><span class="timeline-date">Sep 2016 – Jun 2020</span></div>
-<div class="timeline-role">B.S. in Opto-Electronics Information Science and Engineering</div>
-<p class="timeline-desc">Advisor: Prof. <a href="https://spe.sysu.edu.cn/node/328">Xiao Zhang</a></p>
+<li class="entry">
+<div class="entry-body">
+<div class="entry-title">B.S. in Opto-Electronics Information Science and Engineering, Sun Yat-sen University</div>
+<div class="entry-sub">Sep 2016 – Jun 2020 · Advisor: Prof. <a href="https://spe.sysu.edu.cn/node/328">Xiao Zhang</a></div>
 </div>
 </li>
 </ul>
